@@ -1,0 +1,26 @@
+{
+  "resources/js/app.css": {
+    "file": "assets/app-e6e2f700.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/person_FILL0_wght400_GRAD0_opsz48-facd9e65.svg"
+    ],
+    "css": [
+      "assets/app-e6e2f700.css"
+    ],
+    "file": "assets/app-50c4dad6.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-1f469613.css",
+    "isEntry": true,
+    "src": "resources/scss/app.scss"
+  },
+  "storage/app/public/person_FILL0_wght400_GRAD0_opsz48.svg": {
+    "file": "assets/person_FILL0_wght400_GRAD0_opsz48-facd9e65.svg",
+    "src": "storage/app/public/person_FILL0_wght400_GRAD0_opsz48.svg"
+  }
+}

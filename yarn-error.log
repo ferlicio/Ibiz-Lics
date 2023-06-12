@@ -1,0 +1,52 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\ferli\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add vuetify@^3.3.3
+
+PATH: 
+  C:\Users\ferli\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ferli\bin;C:\app\client\product\12.1.0\client_2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\dotnet;C:\Program Files\PuTTY;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Users\ferli\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Docker\Docker\resources\bin;C:\HashiCorp\Vagrant\bin;C:\Users\ferli\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\ferli\AppData\Local\Programs\Python\Python39;C:\Users\ferli\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\ferli\AppData\Local\Programs\Python\Python311;C:\Users\ferli\AppData\Local\Microsoft\WindowsApps;C:\Users\ferli\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ferli\AppData\Roaming\npm;C:\Users\ferli\.dotnet\tools;C:\Users\ferli\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\ferli\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.12.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Programação\Projetos\testes de emprego\Ibiz\ibiz-lics\node_modules\@esbuild\win32-x64\esbuild.exe'
+
+npm manifest: 
+  {
+      "private": true,
+      "type": "module",
+      "scripts": {
+          "dev": "vite",
+          "build": "vite build && vite build --ssr"
+      },
+      "devDependencies": {
+          "@popperjs/core": "^2.11.6",
+          "@vitejs/plugin-vue": "^4.2.3",
+          "axios": "^1.4.0",
+          "bootstrap": "^5.2.3",
+          "laravel-vite-plugin": "^0.7.5",
+          "sass": "^1.56.1",
+          "vite": "^4.0.0",
+          "vue": "^3.2.37"
+      },
+      "dependencies": {
+          "@inertiajs/vue3": "^1.0.8",
+          "@popperjs/core": "^2.11.8",
+          "@vue/server-renderer": "^3.3.4",
+          "bootstrap": "^5.3.0",
+          "vue": "^3.2.36",
+          "vue-loader": "^17.0.1",
+          "vue-router": "^4.2.2"
+      }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
